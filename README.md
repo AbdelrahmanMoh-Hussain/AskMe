@@ -1,5 +1,5 @@
 # AskMe
-Basic Question/Answer user system clonce to ask.fm site
+Basic Question/Answer user system based on **ask.fm** site
 
 ## Features
 - Login
@@ -14,7 +14,7 @@ Basic Question/Answer user system clonce to ask.fm site
 - Logout
   
 ## Using
-- C#
+- C# .Net
 - OOP
 - Collections
 - Files
